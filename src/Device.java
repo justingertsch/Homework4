@@ -1,5 +1,5 @@
 /**
- * Created by lucian on 10/13/14.
+ * Created by Justin on 10/13/14.
  */
 public class Device
 {
